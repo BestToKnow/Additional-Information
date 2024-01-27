@@ -1,0 +1,45 @@
+Here's an HTML code snippet to display the provided text:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vitamin K2-Rich Foods</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        
+        h1 {
+            font-size: 24px;
+        }
+        
+        ol {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Here are some easy dietary additions to help you get more vitamin K2</h1>
+
+    <ol>
+        <li><strong>Fatty Cheese:</strong> Cheese is a delicious source of vitamin K2. Opt for cheese varieties like brie, gouda, and cheddar. You can enjoy them as a snack, in sandwiches, or as a topping for salads and pasta dishes.</li>
+        <li><strong>Natto:</strong> Natto is a traditional Japanese dish made from fermented soybeans. It's one of the richest sources of vitamin K2 (specifically, the MK-7 form). While natto has a unique taste and texture, some people find it quite enjoyable. Try it as a side dish or mixed with rice.</li>
+        <li><strong>Fatty Pork Sausage:</strong> If you're a meat lover, look for fatty pork sausages. These can be a tasty source of vitamin K2. Cook them up for breakfast or add them to casseroles and stews.</li>
+        <li><strong>Sauerkraut:</strong> Sauerkraut is a fermented cabbage dish that can be a good source of vitamin K2. It's a popular condiment and side dish in many cuisines. Enjoy it as a topping for hot dogs, sandwiches, or as a side with sausages.</li>
+        <li><strong>Yogurt:</strong> Yogurt, especially full-fat or Greek yogurt, contains vitamin K2, along with beneficial probiotics. Have it as a snack, mix it with berries for a parfait, or use it as a base for smoothies.</li>
+        <li><strong>Soft Cheeses:</strong> Soft cheeses like camembert and blue cheese can also provide vitamin K2. Add them to cheese boards, pair them with crackers, or use them in savory dishes.</li>
+        <li><strong>Hard Cheeses:</strong> Hard cheeses like Swiss and gouda are rich in vitamin K2. Grate them over pasta, slice them for sandwiches, or enjoy them with grapes and nuts.</li>
+        <li><strong>Fermented Foods:</strong> Aside from natto and sauerkraut, consider incorporating other fermented foods like kimchi and kefir into your diet. They not only provide vitamin K2 but also offer probiotic benefits for gut health.</li>
+    </ol>
+
+    <p>Remember to consume these foods in moderation as part of a balanced diet. If you're concerned about vitamin K2 intake or have specific dietary restrictions, it's a good idea to consult with a healthcare provider or registered dietitian for personalized guidance.</p>
+</body>
+</html>
+```
+
+You can copy and paste this code into an HTML file (e.g., `index.html`) and open it in a web browser to see the formatted text.
